@@ -2,6 +2,14 @@
 
 Este repositorio contiene una implementación modular en Python de algoritmos avanzados para la planificación de trayectorias en entornos 2D con obstáculos rectangulares. El proyecto se enfoca en la búsqueda de caminos óptimos minimizando la distancia euclidiana y garantizando la seguridad del robot mediante detección de colisiones proactiva.
 
+### 👥 Autores
+Este desarrollo ha sido realizado por:
+* **Liborio Ángel Román Montes**
+* **Andrés Rubio Ramos**
+
+### 🎯 Propósito del Proyecto
+Este software ha sido desarrollado como trabajo final para la asignatura de **Inteligencia Artificial para la Robótica (IAR)**, correspondiente al curso académico **2025-2026**.
+
 ## 🛠️ Estructura del Software
 
 El código está organizado siguiendo principios de diseño modular para facilitar su mantenimiento y escalabilidad:
@@ -19,7 +27,7 @@ Para configurar el proyecto en su entorno local, siga estas instrucciones:
 1.  **Requisitos previos**: Asegúrese de tener instalado Python 3.8 o superior.
 2.  **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/Andro5/trabajo-11-IAR-Liborio-Roman-Andres-Rubio
+    git clone https://github.com/Andros5/trabajo-11-IAR-Liborio-Roman-Andres-Rubio.git
     cd trabajo-11-IAR-Liborio-Roman-Andres-Rubio
     ```
 3.  **Instalar dependencias**:
