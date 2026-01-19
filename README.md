@@ -1,4 +1,4 @@
-# Planificación de Trayectorias mediante Algoritmos Basados en Muestreo (RRT, RRT*, BIT*)
+# Planificación de Trayectorias mediante Algoritmos Basados en Muestreo (RRT, RRT*, Informed RRT*, BIT*)
 
 Este repositorio contiene una implementación modular en Python de algoritmos avanzados para la planificación de trayectorias en entornos 2D con obstáculos rectangulares. El proyecto se enfoca en la búsqueda de caminos óptimos minimizando la distancia euclidiana y garantizando la seguridad del robot mediante detección de colisiones proactiva.
 
